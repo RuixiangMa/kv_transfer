@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Output directories
+output/
+output_14b/
+
+# Logs
+*.log
